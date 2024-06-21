@@ -1,0 +1,15 @@
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe.config
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.pdb
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.AssemblyReference.cache
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.frmDonors.resources
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.frmHome.resources
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Properties.Resources.resources
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.frmLogin.resources
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.frmSplash.resources
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.UI.frmUsers.resources
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.GenerateResource.cache
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.CoreCompileInputs.cache
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.exe
+C:\BloodBankManagementSystem-master\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb
